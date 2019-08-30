@@ -1,18 +1,18 @@
 @font-face {
 	font-family: Bokonique;
-	src: url(fonts/Bokonique-Bold.otf);
+	src: url(font/Bokonique-Bold.otf);
 	font-weight: bold;
 }
 
 @font-face {
 	font-family: Bokonique;
-	src: url(fonts/Bokonique-Light.otf);
+	src: url(font/Bokonique-Light.otf);
 	font-weight: lighter;
 }
 
 @font-face {
 	font-family: Bokonique;
-	src: url(fonts/Bokonique-Regular.otf);
+	src: url(font/Bokonique-Regular.otf);
 	font-weight: normal;
 }
 
